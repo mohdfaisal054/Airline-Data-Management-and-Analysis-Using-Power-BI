@@ -60,3 +60,4 @@ Standard system requirements for Power BI
 
 Authors
 Kamran Faisal
+<img width="1187" height="667" alt="Screenshot 2025-08-11 131240" src="https://github.com/user-attachments/assets/cdfc7b8f-fc2e-4ac0-9c02-3b7639d3cf36" />
